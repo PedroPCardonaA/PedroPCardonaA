@@ -1,38 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Pedro Cardona 👋
 
-Welcome to my GitHub profile! I'm Pedro Cardona, a passionate developer who loves diving into new technologies and creating awesome projects. Here's a little about me and my work:
+Welcome to my GitHub profile.
 
-### 📊 GitHub Stats
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPCardonaA&show_icons=true&theme=radical)
+I'm a developer passionate about building useful software, exploring new technologies, and continuously improving my skills. I enjoy working across areas like backend development, AI, systems programming, and problem-solving.
 
-### 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical)
+## 🚀 About Me
 
-### 🚀 About Me
-- 💻 I love coding and exploring new technologies.
-- 🌱 Currently learning and growing my skills in various areas.
-- 🎯 Goal: Contribute to open source projects and collaborate with fellow developers.
+- 💻 I enjoy building projects and learning by doing
+- 🌱 Always exploring new tools, frameworks, and ideas
+- 🤝 Interested in collaboration and open-source contributions
+- 🎯 Focused on growing as a software engineer and creating impactful solutions
 
-### 🛠️ My Favorite Languages and Technologies
+## 📊 GitHub Stats
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPCardonaA&show_icons=true&theme=radical" alt="Pedro's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical" alt="Top languages" height="165" />
+</p>
 
-#### Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+## 🛠️ Languages & Technologies
 
-Feel free to explore my repositories and get in touch if you want to collaborate on a project. Let's create something amazing together! 🚀
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+## 🌟 What You'll Find Here
+
+On this profile, you'll find projects related to:
+
+- Software development
+- Artificial intelligence and machine learning
+- Backend systems
+- Algorithms and problem-solving
+- Experimental ideas and personal learning projects
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories, check out my work, and reach out if you'd like to collaborate.
 
 ---
 

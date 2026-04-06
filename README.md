@@ -20,7 +20,7 @@ I'm a developer passionate about building useful software, exploring new technol
     height="165"
   />
   <img
-    src="https://github-readme-stats-self-alpha-71.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical&hide_border=true&cache_seconds=3600"
+    src="https://github-readme-stats-self-alpha-71.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"
     alt="Top languages"
     height="165"
   />
@@ -46,6 +46,26 @@ I'm a developer passionate about building useful software, exploring new technol
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+## 🦀 Rust & Go Projects
+
+<p align="center">
+  <a href="https://github.com/PedroPCardonaA/REPO_NAME_1">
+    <img align="center" src="https://github-readme-stats-self-alpha-71.vercel.app/api/pin/?username=PedroPCardonaA&repo=REPO_NAME_1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/PedroPCardonaA/REPO_NAME_2">
+    <img align="center" src="https://github-readme-stats-self-alpha-71.vercel.app/api/pin/?username=PedroPCardonaA&repo=REPO_NAME_2&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PedroPCardonaA/REPO_NAME_3">
+    <img align="center" src="https://github-readme-stats-self-alpha-71.vercel.app/api/pin/?username=PedroPCardonaA&repo=REPO_NAME_3&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/PedroPCardonaA/REPO_NAME_4">
+    <img align="center" src="https://github-readme-stats-self-alpha-71.vercel.app/api/pin/?username=PedroPCardonaA&repo=REPO_NAME_4&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ## 🌟 What You'll Find Here
 

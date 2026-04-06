@@ -26,6 +26,18 @@ I'm a developer passionate about building useful software, exploring new technol
   />
 </p>
 
+## 🌟 Featured Project
+
+<p align="center">
+  <a href="https://github.com/PedroPCardonaA/BIO-AI-Project-2">
+    <img
+      align="center"
+      src="https://github-readme-stats-self-alpha-71.vercel.app/api/pin/?username=PedroPCardonaA&repo=BIO-AI-Project-2&theme=radical&hide_border=true"
+      alt="BIO-AI-Project-2"
+    />
+  </a>
+</p>
+
 ## 🛠️ Languages & Technologies
 
 ### Languages

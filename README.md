@@ -15,12 +15,12 @@ I'm a developer passionate about building useful software, exploring new technol
 
 <p align="center">
   <img
-    src="https://github-readme-stats-1sx19rbm1-pedropcardonaas-projects.vercel.app/api?username=PedroPCardonaA&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600"
+    src="https://github-readme-stats-self-alpha-71.vercel.app/api?username=PedroPCardonaA&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600"
     alt="Pedro's GitHub stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats-1sx19rbm1-pedropcardonaas-projects.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical&hide_border=true&cache_seconds=3600"
+    src="https://github-readme-stats-self-alpha-71.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical&hide_border=true&cache_seconds=3600"
     alt="Top languages"
     height="165"
   />

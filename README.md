@@ -15,12 +15,12 @@ I'm a developer passionate about building useful software, exploring new technol
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=PedroPCardonaA&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600"
+    src="https://github-readme-stats-1sx19rbm1-pedropcardonaas-projects.vercel.app/api?username=PedroPCardonaA&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600"
     alt="Pedro's GitHub stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical&hide_border=true&cache_seconds=3600"
+    src="https://github-readme-stats-1sx19rbm1-pedropcardonaas-projects.vercel.app/api/top-langs/?username=PedroPCardonaA&layout=compact&theme=radical&hide_border=true&cache_seconds=3600"
     alt="Top languages"
     height="165"
   />
@@ -46,3 +46,23 @@ I'm a developer passionate about building useful software, exploring new technol
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+## 🌟 What You'll Find Here
+
+On this profile, you'll find projects related to:
+
+- Software development
+- Artificial intelligence and machine learning
+- Backend systems
+- Algorithms and problem-solving
+- Experimental ideas and personal learning projects
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories and reach out if you'd like to collaborate.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PedroPCardonaA&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
